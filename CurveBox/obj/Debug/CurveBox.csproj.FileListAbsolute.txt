@@ -1,0 +1,11 @@
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\bin\Debug\CurveBox.exe.config
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\bin\Debug\CurveBox.exe
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\bin\Debug\CurveBox.pdb
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\obj\Debug\CurveBox.csprojResolveAssemblyReference.cache
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\obj\Debug\CurveBox.Form1.resources
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\obj\Debug\CurveBox.Properties.Resources.resources
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\obj\Debug\CurveBox.csproj.GenerateResource.Cache
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\obj\Debug\CurveBox.exe
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\obj\Debug\CurveBox.pdb
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\bin\Debug\Curve25519.dll
+c:\users\haifisch\documents\visual studio 2015\Projects\CurveBox\CurveBox\bin\Debug\Curve25519.pdb
